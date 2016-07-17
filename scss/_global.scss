@@ -1,0 +1,25 @@
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.8rem;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  text-align: center;
+}
+
+.button {
+  width: 10rem;
+  height: 4rem;
+  margin-bottom: 3rem;
+  background-color: $white;
+  outline: none;
+  border: 3px solid $black;
+}

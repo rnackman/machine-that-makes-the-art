@@ -1,0 +1,16 @@
+.canvas {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 60vw;
+  height: 40vw;
+  margin: 0 auto;
+  border: 3px solid $grey;
+}
+
+.button {
+  // position: relative;
+  // top: -7rem;
+  // margin-left: 1rem;
+  // margin-top: 1rem;
+}

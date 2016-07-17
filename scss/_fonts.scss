@@ -1,0 +1,10 @@
+$monospace: 'VT323', monospace;
+
+* {
+  font-family: $monospace;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 48px;
+}
